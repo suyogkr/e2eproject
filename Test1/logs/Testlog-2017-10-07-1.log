@@ -1,0 +1,5 @@
+07/Oct/2017 08:41:34,943- 08:41:34.943 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - removing parent window
+07/Oct/2017 08:41:35,150- 08:41:35.150 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - logging in
+07/Oct/2017 08:42:22,175- 08:42:22.175 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile icon
+07/Oct/2017 08:42:29,815- 08:42:29.815 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile link
+07/Oct/2017 08:43:02,661- 08:43:02.661 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Check the checkbox

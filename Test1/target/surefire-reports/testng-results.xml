@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37680" started-at="2017-10-06T03:26:18Z" finished-at="2017-10-06T03:26:55Z">
+    <groups>
+    </groups>
+    <test name="Validating EditProfile" duration-ms="37680" started-at="2017-10-06T03:26:18Z" finished-at="2017-10-06T03:26:55Z">
+      <class name="NewTest.EditProfile">
+        <test-method status="PASS" signature="accessEditProfile()[pri:0, instance:NewTest.EditProfile@e24091]" name="accessEditProfile" duration-ms="37649" started-at="2017-10-06T08:56:18Z" finished-at="2017-10-06T08:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessEditProfile -->
+      </class> <!-- NewTest.EditProfile -->
+    </test> <!-- Validating EditProfile -->
+  </suite> <!-- Suite -->
+</testng-results>

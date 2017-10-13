@@ -1,0 +1,4 @@
+05/Oct/2017 09:00:25,857- 09:00:25.857 [main] DEBUG org.apache.commons.logging.impl.Log4JLogger - Test Case EditProfile Failed
+05/Oct/2017 09:00:25,873- 09:00:25.873 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Test Case EditProfile completed
+05/Oct/2017 13:26:11,884- 13:26:11.884 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Opening browser for EditProfile
+05/Oct/2017 13:26:44,086- 13:26:44.086 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling parent window
