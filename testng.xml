@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+	  <listeners>
+	  	<!-- to listen the exceptions - ITestListener -->
+	  	<listener class-name="NewTest.listeners"></listener>   	
+	 
+	 	<!-- for report generation -->
+	  	<!-- <listener class-name="source.ExtentReporterNG"></listener>	   -->
+	  </listeners>
+	 
+	  <test name="Validating EditProfile">
+	    <classes>
+	      <class name="NewTest.EditProfile"/>
+	    </classes>
+	  </test>    
+	  
+</suite> <!-- Suite -->
