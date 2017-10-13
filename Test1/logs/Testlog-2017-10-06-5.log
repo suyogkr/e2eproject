@@ -1,0 +1,5 @@
+06/Oct/2017 08:54:17,458- 08:54:17.458 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Check the checkbox
+06/Oct/2017 08:54:18,558- 08:54:18.558 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Check the checkbox DONE
+06/Oct/2017 08:56:18,213- 08:56:18.213 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Opening browser for EditProfile
+06/Oct/2017 08:56:32,510- 08:56:32.510 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling parent window
+06/Oct/2017 08:56:32,541- 08:56:32.541 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling child window

@@ -1,0 +1,5 @@
+07/Oct/2017 08:51:24,809- 08:51:24.809 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile icon
+07/Oct/2017 08:51:25,232- 08:51:25.232 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile link
+07/Oct/2017 08:51:32,840- 08:51:32.840 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Check the checkbox
+07/Oct/2017 08:51:33,567- 08:51:33.567 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Check the checkbox DONE
+07/Oct/2017 08:51:33,570- 08:51:33.570 [main] ERROR org.apache.commons.logging.impl.Log4JLogger - java.lang.IllegalMonitorStateException

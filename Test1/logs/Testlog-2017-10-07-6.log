@@ -1,0 +1,5 @@
+07/Oct/2017 08:56:27,855- 08:56:27.855 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling child window
+07/Oct/2017 08:56:28,989- 08:56:28.989 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - removing parent window
+07/Oct/2017 08:56:28,990- 08:56:28.990 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - logging in
+07/Oct/2017 08:57:04,926- 08:57:04.926 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile icon
+07/Oct/2017 08:57:05,361- 08:57:05.361 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Click on profile link

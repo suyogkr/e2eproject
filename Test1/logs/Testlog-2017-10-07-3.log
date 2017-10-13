@@ -1,0 +1,5 @@
+07/Oct/2017 08:50:36,070- 08:50:36.070 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - Opening browser for EditProfile
+07/Oct/2017 08:50:58,548- 08:50:58.548 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling parent window
+07/Oct/2017 08:50:58,592- 08:50:58.592 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - handling child window
+07/Oct/2017 08:50:59,011- 08:50:59.011 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - removing parent window
+07/Oct/2017 08:50:59,012- 08:50:59.012 [main] INFO  org.apache.commons.logging.impl.Log4JLogger - logging in
